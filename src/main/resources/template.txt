@@ -1,0 +1,7 @@
+Hi {First Name},
+
+Hope you are doing well.  Thanks for submitting your abstract {Abstract Title} into the {Conference Track} track to DWS Berlin.  We had a great response with over 350 abstracts and some tracks had up to 90 abstracts.  The committees and track chair spent a lot of time reviewing, discussing and selecting the best mix of abstracts to put a compelling agenda together.  Unfortunately, your abstract did not get selected.   However, I would like to encourage to review your abstracts and resubmit it to DWS SJ.  Here is the link to submit your abstract to DWS SJ.
+
+Regards,
+Some Name
+DataWorks Summit, Program Co-Chair
